@@ -2,15 +2,9 @@
 
 The 70 part apology of Imam Ali
 
-## Getting Started
+Imam Ali (as) said:
+> "Do I tell you about your malady and its remedy? Your malady is your sins, and its remedy is apologizing to God".
+God has promised to forgive whoever repents and apologizes, but the problem is, we don't even consider many of our sins as sin, let alone apologize for them.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The 70 part apology of Imam Ali (as) helps us take a fresh look at our sins, and start our spiritual life a new by apologizing for them.
+Don't forget us in your prayers.
